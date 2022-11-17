@@ -1,0 +1,56 @@
+.sectionContact {
+    background-color: white;
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.buttonContact{
+    background-color:#18bc9c;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+.sectionContact input {
+    color: #fff;
+    border:none;
+    border-bottom:1px solid rgba(0, 0, 0, 0.266);
+    width: 500px;
+    margin: 30px;
+    padding: 10px;
+    align-items: center;
+
+}
+
+.sectionContact textarea {
+    color: #fff;
+    border:none;
+    border-bottom:1px solid rgba(0, 0, 0, 0.266);
+    width: 500px;
+    margin: 30px;
+}
+.start2{
+    color:black
+}
+
+.start3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3%;
+}
+
+.rayita2{
+    font-family: 'Simonetta', cursive;
+    width: 200px;
+    border: solid 2px black;
+    background-color: black;
+}

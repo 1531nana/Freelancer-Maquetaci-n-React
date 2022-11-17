@@ -1,0 +1,23 @@
+.header{
+    color: white;
+    font-weight: bold;
+    background-color: #2c3e50;
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+    align-items: center;
+}
+
+.headerContainer{
+     font-size: 20px;
+}
+
+.linksHeader{
+    display: flex;
+    font-size: 16px;
+}
+
+.linksHeader p{
+    padding: 10px;
+
+}

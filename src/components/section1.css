@@ -1,0 +1,28 @@
+.section1 {
+    padding: 5%;
+    background-color: #18bc9c;
+    color: white;
+  display: grid;
+  place-items: center;
+}
+
+.start{
+    /* display: flex;
+    flex-direction: row;
+    align-items: "center"; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3%;
+}
+.rayita{
+    font-family: 'Simonetta', cursive;
+    width: 200px;
+    border: solid 2px white;
+    background-color: white;
+}
+
+.fa-star{
+    margin: 2px;
+}
+
